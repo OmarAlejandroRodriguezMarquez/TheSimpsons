@@ -1,4 +1,5 @@
-﻿using TheSimpsons.Services;
+﻿using Microsoft.Extensions.Logging;
+using TheSimpsons.Services;
 
 namespace TheSimpsons
 {
